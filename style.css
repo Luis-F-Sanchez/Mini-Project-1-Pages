@@ -1,0 +1,83 @@
+/* html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+} */
+
+
+body {
+  background-color: rgb(43, 42, 42);
+  margin-top: 2%;
+  margin-left: 5%;
+}
+
+p{
+  margin-right: 5%;
+  margin-left: 3%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+a {
+  text-align: center;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  display:block;text-align:center;
+  color: rgb(255, 255, 255);
+}
+
+.yee:hover {
+  background-color: rgb(133, 133, 133);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-left: 10%;
+  /* border-style: solid; */
+
+}
+
+.top-text {
+  background-color: rgb(65, 65, 65);
+  margin-right: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-style: solid;
+  
+}
+
+.text {
+  display: flex;
+}
+
+.mark {
+  margin-right: 0%;
+  margin-left: 0%;
+  text-align: left;
+}
+
+.links {
+  display: flex;
+}
+.pagestxt {
+  text-decoration: none;
+}
+
+.yee {
+  background-color: none;
+}
